@@ -1,0 +1,11 @@
+* Algoritmo para ver series
+
+1.- Contratar un servicio de streaming por suscripción (ya sea Netflix, PrimeVideo, HBO, etc.).
+2.- Encender la Televisión
+2.- acceder a Netflix/PrimeVideo/HBO
+3.- ingresar la cuenta con la que se realizó la suscripción
+4.- Configurar la cuenta
+5.- Seleccionar la Serie de tu agrado
+6.- hacer unas palomitas en el microondas
+7.- reproducir la serie 
+8.- disfrutar de la serie comiento palomitas de maíz
